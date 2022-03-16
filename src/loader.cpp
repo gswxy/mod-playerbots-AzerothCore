@@ -19,7 +19,7 @@
 void AddPlayerbotsScripts();
 
 // Add all
-void Addmod_playerbotsScripts()
+void Addmod_playerbots_AzerothCoreScripts()
 {
     AddPlayerbotsScripts();
 }

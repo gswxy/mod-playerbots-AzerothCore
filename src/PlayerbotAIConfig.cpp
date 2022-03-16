@@ -8,7 +8,7 @@
 #include "PlayerbotFactory.h"
 #include "RandomItemMgr.h"
 #include "RandomPlayerbotFactory.h"
-#include "TalentSpec.h"
+#include "Talentspec.h"
 
 #include <iostream>
 

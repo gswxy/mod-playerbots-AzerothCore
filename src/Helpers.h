@@ -14,6 +14,9 @@
 #include <locale>
 #include <sstream>
 
+#include<stdio.h>
+#include<string.h>
+
 void split(std::vector<std::string>& dest, std::string const str, char const* delim)
 {
     char* pTempStr = strdup(str.c_str());
